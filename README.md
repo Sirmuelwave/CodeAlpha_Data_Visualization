@@ -10,9 +10,9 @@ Python, pandas, matplotlib, seaborn (Google Colab)
 ![Dashboard](dashboard.png)
 
 ## Key insights
-- (your insight 1)
-- (your insight 2)
-- (your insight 3)
+- (average bill by day)
+- (bill vs tip)
+- (table served by day and meal)
 
 ## Files
 - `CodeAlpha_Data_Visualization.ipynb` - full notebook
